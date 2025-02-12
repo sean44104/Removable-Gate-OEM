@@ -28,3 +28,6 @@ This design is based on, and uses the OEM GCC step file collection made by GearH
 
 ### DrillJig (left) and ThreadHolder (right)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image3.png)
+
+### Inside View of the ThreadHolder System
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t11.png)
