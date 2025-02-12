@@ -72,7 +72,7 @@ Make sure to firmly press the ThreadHolder in and push it down so that the entir
 Take your [thread pieces](https://www.mcmaster.com/90363a110/) and push them into the containers of the ThreadHolder until they are all the way in, as shown. This may be a tight friction fit, so you can use a screwdriver to push them in by applying pressure to the center of the thread piece.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t10.png)
 
-These thread pieces are designed to expand out when [the screw](https://www.mcmaster.com/90236A105/) is threaded inside of them, embedding themselves into the ThreadHolder and locking them inside of there permanently. I recommend that for the first time, you put the screws in upside down like so. This way the threads can be expanded securely and will not fall out.
+These thread pieces are designed to expand out when [the screw](https://www.mcmaster.com/90236A105/) is threaded inside of them, embedding themselves into the ThreadHolder and locking them inside of there permanently. I recommend that for the first time, you put the screws in upside-down like so. This way the threads can be expanded securely and will not fall out.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t10b.png)
 
 # Step 5
@@ -81,5 +81,5 @@ You are basically done now! Remove the upside-down screws from their thread piec
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t11.png)
 
 Now, you can assemble your controller. You will be able to remove and attach gateplates onto your controller while it is fully assembled. You do not have to take the controller apart whatsoever to remove or swap out a gateplate. Simply unscrew the Gateplate, remove the screws, and pull the Gateplate out. The internal parts will stay in place and not fall out!
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t12.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t12.PNG)
 </details>
