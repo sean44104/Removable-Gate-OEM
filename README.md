@@ -2,7 +2,7 @@
 
 Removable Gate OEM is a project [based on my previous work](https://github.com/sean44104/Removable-Gate-GCC) designed to bring the removable gate system to OEM Gamecube Controller shells in the form of a small DIY kit
 
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image1.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image1.PNG)
 
 This release contains STL, STEP, and F3D files for each part of the project. The STLs are high resolution and ready to be resin printed. You can import the F3D file into fusion360, or the STEP files into any other CAD program you like to make changes to the design as you see fit! The files feature 5 unique gateplate designs, each with their own different number of notches for you to experiment with. Additionally, the files also include what I call a **ThreadHolder** and a **DrillJig**. The ThreadHolder is a piece that will slide under the control stick area of the GCC front shell. It has slots inside that will hold the metal threads permanently inside of the shell. When you put a gateplate onto the front of your controller, the gateplate will screw into these threads and hold it firmly in place!
 
