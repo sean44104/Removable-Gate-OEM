@@ -80,6 +80,8 @@ You are basically done now! Remove the upside-down screws from their thread piec
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t10c.PNG)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t11.png)
 
-Now, you can assemble your controller. You will be able to remove and attach gateplates onto your controller while it is fully assembled. You do not have to take the controller apart whatsoever to remove or swap out a gateplate. Simply unscrew the Gateplate, remove the screws, and pull the Gateplate out. The internal parts will stay in place and not fall out!
+Now, you can assemble your controller. You will be able to remove and attach gateplates onto your controller while it is fully assembled. You do not have to take the controller apart whatsoever to remove or swap out a gateplate. Simply unscrew the Gateplate, remove the screws, and pull the Gateplate out.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t12.PNG)
+
+The internal parts will stay in place and not fall out! Happy modding!
 </details>
