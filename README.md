@@ -1,6 +1,6 @@
 # Removable-Gate-OEM
 
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image1.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image1.PNG)
 
 Removable Gate OEM is a project [based on my previous work](https://github.com/sean44104/Removable-Gate-GCC) designed to bring the removable gate system to OEM Gamecube Controller shells in the form of a small DIY kit
 
@@ -27,4 +27,4 @@ This design is based on, and uses the OEM GCC step file collection made by GearH
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image2.png)
 
 ### DrillJig (left) and ThreadHolder (right)
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image2.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image3.png)
