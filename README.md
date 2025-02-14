@@ -21,6 +21,8 @@ The Gateplate Screws are T6 Torx Screws. If you do not have a T6 Torx Screwdrive
 YouTube Video going over the concept and explaining how the kit works with visuals:
 https://youtu.be/-zyUboVVk4A
 
+Parametric Notch Builder Tool: https://www.printables.com/model/1191100-parametric-notch-builder-tool-for-oem-stubby-gatep
+
 This design is based on, and uses the OEM GCC step file collection made by GearHawkStudios
 
 **JLC3DP Ordering Guide and Installation Tutorial Coming Soon (Hopefully) :D**
@@ -34,7 +36,15 @@ This design is based on, and uses the OEM GCC step file collection made by GearH
 ### Inside View of the ThreadHolder System
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t11.png)
 
+# Parametric Notch Builder
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/pnb1.png)
 
+The [Parametric Notch Builder Tool](https://www.printables.com/model/1191100-parametric-notch-builder-tool-for-oem-stubby-gatep) allows you to input values into a menu and slightly adjust the geometry of a Notched Gateplate. With this, you can remove notches, adjust notches, move notches around the gate, and adjust the overall shape and profile. This lets you get very specific with your Gateplate design and allows you to do things that are character specific on a whim.
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/pgp.png)
+
+Personally, I prefer the smooth profile of the parametric notched gateplate over harsher notched gateplates included in the standard release. I have included some sample gateplates made using this tool, and I encourage you to try it out and create your own!
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/rpg1.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/rpg2.png)
 
 # Removable Gate OEM Installation Tutorial:
 <details>
