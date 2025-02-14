@@ -25,8 +25,6 @@ Parametric Notch Builder Tool: https://www.printables.com/model/1191100-parametr
 
 This design is based on, and uses the OEM GCC step file collection made by GearHawkStudios
 
-**JLC3DP Ordering Guide and Installation Tutorial Coming Soon (Hopefully) :D**
-
 ### Removable Gates and Notched Gateplates
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image2.png)
 
@@ -91,5 +89,45 @@ You are basically done now! Remove the upside-down screws from their thread piec
 Now, you can assemble your controller. You will be able to remove and attach gateplates onto your controller while it is fully assembled. You do not have to take the controller apart whatsoever to remove or swap out a gateplate. Simply unscrew the Gateplate, remove the screws, and pull the Gateplate out.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t12.PNG)
 
-The internal parts will stay in place and not fall out! Happy modding!
+The internal parts will stay in place and not fall out. Happy Modding!
+</details>
+
+# Prices, Shipping, And Optimal JLC3DP Settings For Each Part:
+<details>
+  <summary>Click to expand</summary>
+
+## Gateplates
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc1.png)
+
+8001 Transparent Oil Spray is the best material for the Gateplate because of its high hardness, low friction, and good dimensional stability. A Gateplate made of this material will feel the smoothest when it touches your control stick and most OEM ABS Plastic-like. It will be more consistent and have a more perfect shape than something like Black Resin. 8001 Transparent Oil Spray Resin does have an issue where it is slightly thicker than the rest of the materials. For this reason, I do not recommend it for internal parts where tolerances and clearance are a priority. But for the external Gateplate, its perfect.
+
+## ThreadHolder
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc2.png)
+
+LEDO 6060 is the least expensive resin on the website. It does not have the smoothness of 8001 Transparent Oil Spray or the highly detailed and accurate surface finish of Black Resin, but it is more dimensionally stable than Black Resin and does not have the extra thickness issue that 8001 has. For a precise part like the ThreadHolder, that also wont be seen from the outside very much at all, I believe LEDO 6060 is the best choice.
+
+## DrillJig
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc3.png)
+
+I choose LEDO 6060 resin for the DrillJig for pretty much the same reason as I chose it for the ThreadHolder. The DrillJig is the only temporary piece in this kit. It is used to accurately drill your holes, and then it is either discarded or used again to make multiple shells. Because of this, it's material matters the least. Also, because of the DrillJig's completely flat surface, you could probably FDM print this part as well!
+
+## Other Parts
+
+While not explicitly part of this project, I do want to point out that *generally* the best and safest resin to print something in is actually Black Resin or JLC Black Resin. This resin type is smooth to the touch and has very high "resolution". It has a detailed, smooth, accurate surface that is much better than something like LEDO 6060. For general parts, such as buttons, shells, stick bases, or other small detailed parts, Black Resin is generally the way to go. If you want to guarantee that the part you order is MOST similar to the STL file that you designed and submitted, you should usually order parts in JLC Black Resin.
+
+## Shipping
+
+While you may notice that the prices for these individual parts can be very inexpensive, keep in mind that the shipping is usually where the majority of the cost is going to come from. While JLC3DP shipping can be relatively expensive, this does not mean that it is bad or that your parts will take months to get to you. From my experience, it takes about 2-3 weeks for an order to go from shipped to delivered. Usually around 10 days. Below are some prices and shipping estimates from JLC3DP. I would consider their information to be accurate. Even with the shipping cost included, you can obtain all of the 3D printed the parts needed for this kit for only about $20 - $30
+
+<details>
+  <summary>Click to expand</summary>
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc4.png)
+
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc5.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc6.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc7.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc8.png)
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc9.png)
+</details>
+
 </details>
