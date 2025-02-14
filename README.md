@@ -43,8 +43,6 @@ The [Parametric Notch Builder Tool](https://www.printables.com/model/1191100-par
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/pgp.png)
 
 Personally, I prefer the smooth profile of the parametric notched gateplate over harsher notched gateplates included in the standard release. I have included some sample gateplates made using this tool, and I encourage you to try it out and create your own!
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/rpg1.png)
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/rpg2.png)
 
 # Removable Gate OEM Installation Tutorial:
 <details>
