@@ -92,7 +92,7 @@ Now, you can assemble your controller. You will be able to remove and attach gat
 The internal parts will stay in place and not fall out. Happy Modding!
 </details>
 
-# Prices, Shipping, And Optimal JLC3DP Settings For Each Part:
+# Optimal JLC3DP Part Settings, Prices, and Shipping:
 <details>
   <summary>Click to expand</summary>
 
@@ -121,8 +121,8 @@ While you may notice that the prices for these individual parts can be very inex
 
 <details>
   <summary>Click to expand</summary>
-![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc4.png)
 
+![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc4.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc5.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc6.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/jlc7.png)
