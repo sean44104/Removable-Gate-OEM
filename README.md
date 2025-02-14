@@ -8,7 +8,7 @@ This release contains STL, STEP, and F3D files for each part of the project. The
 
 This project requires modification of the OEM Gamecube Controller front shell in order to fit and function. A section of the shell first needs to be removed, and then 3 holes need to be drilled into the shell. These holes require a 3/16 inch drill bit. The DrillJig is a piece that slides under the control stick area of the GCC, just like the ThreadHolder, and shows you exactly where to drill so that you can put the drill holes in the exact perfect spot. After you are done drilling, the DrillJig is to be removed from the controller and replaced by the ThreadHolder, the permanent piece that goes in that spot for the mod to work. You can reuse the DrillJig to drill holes in multiple controller shells. **Use the DrillJig after removing the gate area of the front shell and before installing the ThreadHolder!**
 
-Relevant Links:
+### Relevant Links:
 
 Gateplate Screws: https://www.mcmaster.com/90236A105/
 
@@ -46,7 +46,7 @@ Personally, I prefer the smooth profile of the parametric notched gateplate over
 <details>
   <summary>Click to expand</summary>
 
-# Step 1
+## Step 1
 The first thing you need to do is remove the gate material from the front shell. Remove the entire lifted circular section of the control stick gate, shown here in green. Cut off the entire lifted dome until it is flat with the rest of the front shell's surface. You can use a dremel to cut it off and then sand down the excess. Do not go deep into the shell, remove any of the inside, or take out the cylinder that extends down into the shell. Here is a front and side profile of what is to be removed:
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t1.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t2.png)
@@ -55,7 +55,7 @@ The first thing you need to do is remove the gate material from the front shell.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t3.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t4.png)
 
-# Step 2
+## Step 2
 Next, you are going to use the DrillJig. Slide the jig into the back of the front shell so that the curved side is going down into the controller and the flat side is facing up as shown. Now, use a 3/16 inch drill bit to remove the material shown here in green:
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t6.png)
 
@@ -67,21 +67,21 @@ Here is a view from the other side:
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t7.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t8.png)
 
-# Step 3
+## Step 3
 Now, you are going to install the ThreadHolder. Remove the DrillJig from the controller shell and apply a small amount of glue to the flat top surface of the ThreadHolder. Then, you are going to slide it into the back of the front shell, just like the DrillJig, shown here:
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t9.png)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t9b.png)
 
 Make sure to firmly press the ThreadHolder in and push it down so that the entire piece makes good contact with the back of the controller front shell
 
-# Step 4
+## Step 4
 Take your [thread pieces](https://www.mcmaster.com/90363a110/) and push them into the containers of the ThreadHolder until they are all the way in, as shown. This may be a tight friction fit, so you can use a screwdriver to push them in by applying pressure to the center of the thread piece.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t10.png)
 
 These thread pieces are designed to expand out when [the screw](https://www.mcmaster.com/90236A105/) is threaded inside of them, embedding themselves into the ThreadHolder and locking them inside of there permanently. I recommend that for the first time, you put the screws in upside-down like so. This way the threads can be expanded securely and will not fall out.
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t10b.png)
 
-# Step 5
+## Step 5
 You are basically done now! Remove the upside-down screws from their thread pieces. The front shell is complete. You can now take a Gateplate and place it onto the front face of your Gamecube Controller front shell. It has three pegs underneath it, which will slot nicely into the holes that you drilled. Now, just insert a screw into each of the three holes on the gateplate surface and they will go through the gateplate, through the front shell, and thread into the metal inserts inside of the ThreadHolder. It will look like this when you are done and everything is fully installed:
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t10c.PNG)
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/t11.png)
