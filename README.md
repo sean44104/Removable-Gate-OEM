@@ -21,6 +21,8 @@ The Gateplate Screws are T6 Torx Screws. If you do not have a T6 Torx Screwdrive
 YouTube Video going over the concept and explaining how the kit works with visuals:
 https://youtu.be/-zyUboVVk4A
 
+Video Build Guide: https://youtu.be/2FYZF3ZB4hE
+
 Parametric Notch Builder Tool: https://www.printables.com/model/1191100-parametric-notch-builder-tool-for-oem-stubby-gatep
 
 This design is based on, and uses the OEM GCC step file collection made by GearHawkStudios
