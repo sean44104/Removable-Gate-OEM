@@ -25,7 +25,17 @@ Video Build Guide: https://youtu.be/2FYZF3ZB4hE
 
 Parametric Notch Builder Tool: https://www.printables.com/model/1191100-parametric-notch-builder-tool-for-oem-stubby-gatep
 
+CarVac FDM File Set & Additional Parametric Gateplates: https://www.printables.com/model/1504464-oem-gamecube-controller-notched-gateplates/files
+
 This design is based on, and uses the OEM GCC step file collection made by GearHawkStudios
+
+### Optional PTFE Upgrade:
+
+I have found that when using resin printed gateplates, especially with resin casted stick caps, there can be more friction on the gate against the stick than on a standard controller. I highly recommend applying a layer of PTFE tape around the neck of your stick cap. This small mod can help improve the feel of your gate and enhance the durability of your controller. 
+
+PTFE Tape: https://www.mcmaster.com/6305A51/
+
+Installation Guide: https://youtu.be/KtZ6UY_qpAE
 
 ### Removable Gates and Notched Gateplates
 ![image](https://raw.githubusercontent.com/sean44104/Removable-Gate-OEM/main/Images/image2.png)
